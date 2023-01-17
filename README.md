@@ -1,6 +1,6 @@
 # **Bryann Arlye** Torres Rodriguez
 ## Frontend developer
-- 🌐 Hosted projects at <[arleyro.com](https://www.arleyro.com/)>
+- 🌐 Hosted projects at [arleyro.com](https://www.arleyro.com/)
 - 🏠 All projects at <https://github.com/Largnaster>
 - 🔗 [Linkedin](https://www.linkedin.com/in/bryann-arlye-torres-rodriguez-bbb016198/)
 - ✉ Reach me at arleyro91@outlook.com
