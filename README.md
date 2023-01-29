@@ -93,7 +93,7 @@ ___
 
 - Supporting and maintaining a web application built with ReactJS and TypeScript for the frontend, GatsbyJS with JavaScript for the landing page, and Django for the backend.
 - Utilizing Git and GitHub for version control and Scrum methodology for project management.
-- Current role started in August 2022 and have been working on it for 6 months.
+- Current role started in August 2022.
 
 ### **CORPORACION UNIVERSITARIA MINUTO DE DIOS** | TRAINEE
 *Sep 2021 – Mar 2022 | Bogotá, Colombia*
