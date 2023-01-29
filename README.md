@@ -3,7 +3,7 @@
 - 🌐 Hosted projects at [arleyro.com](https://www.arleyro.com/)
 - 🏠 All projects at <https://github.com/Largnaster>
 - 🔗 [Linkedin](https://www.linkedin.com/in/arleyro91/)
-- ✉ Reach me at arleyro91@outlook.com
+- ✉ Reach me at arleyro91@gmail.com
 - 📍 Currently located in Colombia
 ---
 
@@ -11,19 +11,29 @@
 
 ## **SUMMARY**
 
-Software Engineer focused on web development with knowledge on ReactJS, NodeJS and Git that wants to increase experience on web development and gain new skills to develop solutions with major significance.
-English level B2/Intermediate, defined as an honest person, with emotion magement and rapid learning. Lesser extent knowledge in technologies like Python, Java, C#, TypeScript, MongoDB, MySQL, Docker, AngularJS and VueJS.
+I am a full-stack developer with proficiency in ReactJS, NodeJS, Django, PostgreSQL, Typescript, and JavaScript. In addition to my technical abilities, I possess strong soft skills such as empathy, teamwork, perseverance, flexibility, and stress management.
+I am also a lifelong learner with a passion for music, science, and videogames, as well as staying up-to-date with the latest technology advances.
 ___
 
 <!-- PROJECTS SECTION -->
 
 ## **PROJECTS**
 
-### **LANDING PAGE** | VueJS
+### **Factcil** | ReactJS, Django
+*I-Comm Solutions | 2022*
+
+[Factcil](https://aio.factcil.com/)
+
+This project offers assistance services for billing, social security, payment requests and other services, I was able to use my skills in a real-world setting to help improve the user experience and make the application more efficient.
+As a full-stack engineer on a web application for freelancers, I leveraged my proficiency in Django and React to develop and deploy various modules, functionalities, and bug fixes. Some of my key contributions include:
+
+- Deploying client-requested functionalities to improve the user experience.
+- Developing and implementing backend using Django, including creating models, serializers, views, and translations to support a global audience.
+- Participating in SCRUM meetings to plan and define project activities.
+
+### **Landing Page** | VueJS
 
 *Independent | 2020*
-
-[app‑wind.herokuapp.com](https://app-wind.herokuapp.com)
 
 A Landing Page design was developed with a basic discord bot embeded, the application was deployed using Heroku.
 
@@ -31,14 +41,6 @@ A Landing Page design was developed with a basic discord bot embeded, the applic
 - The monitoring of the application was made with the client to ensure their satisfaction and the requirements fulfillment.
 - The first version was deployed within two months of developing.
 
-### **PHARMACY TRANSACTIONAL SYSTEM** | VueJS
-*Independent ‑ Academic | 2020*
-
-Management application for purchase and sell invoices of pharmaceutical products and stock management.
-
-- The billing methods were implemented using JavaScript, the design and routes were made with VueJS.
-- The project was deployed it in the cloud following standards to be scalable using Docker and ExpressJS.
-- I led the project in accordance with the requirements.
 ___
 
 <!-- Skills section -->
@@ -47,11 +49,11 @@ ___
 
 ### Libraries/Frameworks
 
-Node.js • React • Angular • Vue • Next • Express
+React • Django • Vite • NodeJS • Next
 
 ### Tools/Platforms
 
-Git • GitHub • Heroku • Docker
+Git • GitHub • PostgreSQL
 
 ### Languages
 
@@ -85,6 +87,13 @@ ___
 <!-- EXPERIENCE SECTION -->
 
 ## **EXPERIENCE**
+
+### **ICOMM SOLUTIONS SAS** | FULL-STACK DEVELOPER
+*Ago 2022 – Now | Bogotá, Colombia*
+
+- Supporting and maintaining a web application built with ReactJS and TypeScript for the frontend, GatsbyJS with JavaScript for the landing page, and Django for the backend.
+- Utilizing Git and GitHub for version control and Scrum methodology for project management.
+- Current role started in August 2022 and have been working on it for 6 months.
 
 ### **CORPORACION UNIVERSITARIA MINUTO DE DIOS** | TRAINEE
 *Sep 2021 – Mar 2022 | Bogotá, Colombia*
