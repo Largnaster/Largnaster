@@ -2,7 +2,7 @@
 ## Frontend developer
 - 🌐 Hosted projects at [arleyro.com](https://www.arleyro.com/)
 - 🏠 All projects at <https://github.com/Largnaster>
-- 🔗 [Linkedin](https://www.linkedin.com/in/bryann-arlye-torres-rodriguez-bbb016198/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/arleyro91/)
 - ✉ Reach me at arleyro91@outlook.com
 - 📍 Currently located in Colombia
 ---
