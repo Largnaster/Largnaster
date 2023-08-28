@@ -74,7 +74,7 @@ ___
 *Softare Engineering*
 Jan 2017 - Ongoing | Bogota, Colombia
 
-GPA: 3.0/4.0
+GPA: 3.8/5.0
 
 ### **UDEMY**
 *REACT: HOOKS, ROUTER, REDUX, NEXT*
@@ -91,17 +91,17 @@ ___
 ### **ICOMM SOLUTIONS SAS** | FULL-STACK DEVELOPER
 *Ago 2022 – Now | Bogotá, Colombia*
 
-- Supporting and maintaining a web application built with ReactJS and TypeScript for the frontend, GatsbyJS with JavaScript for the landing page, and Django for the backend.
-- Utilizing Git and GitHub for version control and Scrum methodology for project management.
+- Develop and maintain web applications using React with TypeScript and Django as the main stack.
+- Use of Git and GitHub for version control and Scrum methodology for project management.
+- Current role started in August 2022
+
+### **Edigital SAS** | JUNIOR JAVA DEVELOPER
+*May 2022 – Jul 2022 | Bogotá, Colombia*
+
+- I was part of the development team, giving support to customers, maintaining and developing a web application utilizing JSF and JavaEE.
 
 ### **CORPORACION UNIVERSITARIA MINUTO DE DIOS** | TRAINEE
 *Sep 2021 – Mar 2022 | Bogotá, Colombia*
 
 - My function was the research of information and report generation with statistical data.
 - I learned team work and how to fit into a work environment.
-
-### **FALABELLA RETAIL S.A.** | SALES ASSISTANT
-*Nov 2018 – Dec 2018 | Chía, Cundinamarca, Colombia*
-
-- Part of the customer service during their crhistmas shoping in december.
-- I learned how to work under pressure and manage extended work hours with high customer flow.
