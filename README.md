@@ -19,7 +19,17 @@ ___
 
 ## **PROJECTS**
 
-### **Factcil** | ReactJS, Django
+### **Pick/Inappsis Fintech** | React, Django
+
+*I-Comm Solutions | 2023*
+
+Contributed to 'Pick/Inappsis Fintech,' a fintech platform that allows users to apply for credits, manage tax considerations, and receive automated amortization projections.
+
+- Contributed to the transition to Material-UI, adapting to new styles and templates, and enhancing the project's visual appeal and user experience.
+- Assisted in developing features for the client dashboard, focusing on improving user interaction and data accessibility.
+- Aided in the creation of a dynamic, multi-step credit application form, incorporating token-based security and personalized data collection to streamline user experience.
+
+### **Factcil** | React, Django
 *I-Comm Solutions | 2022*
 
 [Factcil](https://aio.factcil.com/)
@@ -31,16 +41,6 @@ As a full-stack engineer on a web application for freelancers, I leveraged my pr
 - Developing and implementing backend using Django, including creating models, serializers, views, and translations to support a global audience.
 - Participating in SCRUM meetings to plan and define project activities.
 
-### **Landing Page** | VueJS
-
-*Independent | 2020*
-
-A Landing Page design was developed with a basic discord bot embeded, the application was deployed using Heroku.
-
-- The 100% of the front-end was developed on Vue.js.
-- The monitoring of the application was made with the client to ensure their satisfaction and the requirements fulfillment.
-- The first version was deployed within two months of developing.
-
 ___
 
 <!-- Skills section -->
@@ -49,7 +49,7 @@ ___
 
 ### Libraries/Frameworks
 
-React • Django • Vite • NodeJS • Next
+React • Django • Typescript • NodeJS • DiscordJS
 
 ### Tools/Platforms
 
@@ -72,7 +72,7 @@ ___
 ### **UNIVERSIDAD MANUELA BELTRAN**
 
 *Softare Engineering*
-Jan 2017 - Ongoing | Bogota, Colombia
+Jan 2017 - Sept 2023 | Bogota, Colombia
 
 GPA: 3.8/5.0
 
@@ -93,15 +93,10 @@ ___
 
 - Develop and maintain web applications using React with TypeScript and Django as the main stack.
 - Use of Git and GitHub for version control and Scrum methodology for project management.
-- Current role started in August 2022
+- Working as part of a small team, actively contributing to the development of functionalities, and making impactful proposals for improvements.
+- Continually improving my skills in React, TypeScript, and Django, and applying them to real-world projects.
 
 ### **Edigital SAS** | JUNIOR JAVA DEVELOPER
 *May 2022 – Jul 2022 | Bogotá, Colombia*
 
 - I was part of the development team, giving support to customers, maintaining and developing a web application utilizing JSF and JavaEE.
-
-### **CORPORACION UNIVERSITARIA MINUTO DE DIOS** | TRAINEE
-*Sep 2021 – Mar 2022 | Bogotá, Colombia*
-
-- My function was the research of information and report generation with statistical data.
-- I learned team work and how to fit into a work environment.
