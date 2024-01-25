@@ -1,5 +1,5 @@
 # **Bryann Arlye** Torres Rodriguez
-## Frontend developer
+## Full Stack | Backend | Frontend
 - 🌐 Hosted projects at [arleyro.com](https://www.arleyro.com/)
 - 🏠 All projects at <https://github.com/Largnaster>
 - 🔗 [Linkedin](https://www.linkedin.com/in/arleyro91/)
