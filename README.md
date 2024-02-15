@@ -6,11 +6,11 @@
 - ✉ Reach me at arleyro91@gmail.com
 - 📍 Currently located in Colombia
 
-<div>
+<span style="display:block">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Largnaster&show_icons=true&theme=cobalt&rank_icon=github&count_private=true&show=prs_merged&hide=stars,issues&include_all_commits=true" alt="Largnaster GitHub Stats"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Largnaster&hide_progress=false&theme=cobalt&count_private=true&card_width=320" alt="Largnaster Top Languages"/>
-</div>
+</span>
 
 ---
 
