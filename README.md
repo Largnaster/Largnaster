@@ -10,6 +10,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Largnaster&hide_progress=false&theme=cobalt&count_private=true&card_width=320" alt="Largnaster Top Languages"/>
 
+<br />
+
 ---
 
 <!-- Summary Section -->
