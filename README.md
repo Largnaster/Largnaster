@@ -5,6 +5,11 @@
 - 🔗 [Linkedin](https://www.linkedin.com/in/arleyro91/)
 - ✉ Reach me at arleyro91@gmail.com
 - 📍 Currently located in Colombia
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Largnaster&hide_progress=false&theme=cobalt&count_private=true&card_width=380" alt="Largnaster Top Languages"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Largnaster&show_icons=true&theme=cobalt&rank_icon=github&count_private=true&show=prs_merged&hide=stars,issues&include_all_commits=true" alt="Largnaster GitHub Stats"/>
+
 ---
 
 <!-- Summary Section -->
