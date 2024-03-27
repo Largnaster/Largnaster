@@ -95,8 +95,13 @@ ___
 
 ## **EXPERIENCE**
 
+### **Mercado Libre** | SOFTWARE DEVELOPER
+*Mar 2024 – Now | Bogotá, Colombia*
+
+- I have joined to an IT Bootcamp as Backend Developer utilizing Java with the framework Spring.
+
 ### **ICOMM SOLUTIONS SAS** | FULL-STACK DEVELOPER
-*Ago 2022 – Now | Bogotá, Colombia*
+*Ago 2022 – Mar 2024 | Bogotá, Colombia*
 
 - Develop and maintain web applications using React with TypeScript and Django as the main stack.
 - Use of Git and GitHub for version control and Scrum methodology for project management.
