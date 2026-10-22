@@ -3,7 +3,7 @@
 - 🌐 Hosted projects at [arleyro.com](https://www.arleyro.com/)
 - 🏠 All projects at <https://github.com/Largnaster>
 - 🔗 [Linkedin](https://www.linkedin.com/in/arleyro91/)
-- ✉ Reach me at arleyro91@gmail.com
+- ✉ Reach me at trek.mite7072@eagereverest.com
 - 📍 Currently located in Colombia
 
 <p float="left" textAlign="center">
